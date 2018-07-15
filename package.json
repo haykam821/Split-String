@@ -1,0 +1,26 @@
+{
+  "name": "string-splitter",
+  "version": "1.0.0",
+  "description": "Many utility functions for splitting a string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haykam821/String-Splitter.git"
+  },
+  "keywords": [
+    "string",
+    "split",
+    "separate",
+    "regex",
+    "array"
+  ],
+  "author": "haykam821",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haykam821/String-Splitter/issues"
+  },
+  "homepage": "https://github.com/haykam821/String-Splitter#readme"
+}
